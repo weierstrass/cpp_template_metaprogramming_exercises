@@ -1,29 +1,34 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+build/*
+test/build/*
+test/a.out
+a.out
+*~
+*#*
 
-# Precompiled Headers
-*.gch
-*.pch
+# cmake
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Testing
+CMakeFiles/*
+CPackConfig.cmake
+CPackSourceConfig.cmake
+Debug/*
+Release/*
+_CPack_Packages/*
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
+# artifacts
+protobuf-decoder
+protobuf-decoder_test
 *.app
+*.zip
+*.exe
+*.dmg
+*.deb
+
+# other
+.DS_Store

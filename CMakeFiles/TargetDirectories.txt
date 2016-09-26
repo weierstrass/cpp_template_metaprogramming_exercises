@@ -1,0 +1,16 @@
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/CMakeFiles/package.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/CMakeFiles/package_source.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/CMakeFiles/edit_cache.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/CMakeFiles/rebuild_cache.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/CMakeFiles/test.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/src/CMakeFiles/package.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/src/CMakeFiles/package_source.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/src/CMakeFiles/edit_cache.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/src/CMakeFiles/rebuild_cache.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/src/CMakeFiles/test.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/test/CMakeFiles/package.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/test/CMakeFiles/rebuild_cache.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/test/CMakeFiles/package_source.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/test/CMakeFiles/edit_cache.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/test/CMakeFiles/test.dir
+/Users/andreasbulling/prog/cpp_template_metaprogramming_exercises/test/CMakeFiles/template_exercises_test.dir
