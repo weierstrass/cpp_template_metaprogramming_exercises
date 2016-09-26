@@ -20,5 +20,8 @@ TEST(chapter2, exercise0)
 
 TEST(chapter2, exercise1)
 {
-    
+    ASSERT_TRUE((std::is_same<
+                 int*,
+                 ex::replace_type<void*, void, int>::type
+                 >::value));
 }
