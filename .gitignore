@@ -22,8 +22,7 @@ Release/*
 _CPack_Packages/*
 
 # artifacts
-protobuf-decoder
-protobuf-decoder_test
+template_exercises_test
 *.app
 *.zip
 *.exe
